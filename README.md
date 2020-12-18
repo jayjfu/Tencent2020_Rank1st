@@ -1,4 +1,4 @@
-test: jayfu
+test: jayjfu
 
 ## 赛题介绍-广告受众基础属性预估
 
